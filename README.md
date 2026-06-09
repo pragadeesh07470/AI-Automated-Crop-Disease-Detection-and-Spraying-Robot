@@ -23,7 +23,7 @@ This project is an AI-powered agricultural monitoring and pesticide spraying sys
 
 ## 📋 Features
 
-✅ Real-time crop disease detection using YOLOv8
+✅ Real-time crop disease detection using YOLOv8..
 ✅ Supports ESP32-CAM and webcam image sources
 ✅ Detection of multiple tomato leaf diseases
 ✅ Automatic pesticide spraying control
