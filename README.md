@@ -199,8 +199,3 @@ to stop detection.
 * Precision Agriculture Research Publications
 
 ---
-
-## 👨‍💻 Authors
-
-**AI-Automated Crop Disease Detection and Smart Spraying System**
-Final Year Project – Smart Agriculture using AI, IoT, and Computer Vision. 🌱🤖🚜
