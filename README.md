@@ -69,7 +69,23 @@ Detected leaves are classified into categories such as:
 
 Detection results are sent to a web server, which updates relay status for field automation.
 
-### 6️⃣ Visual Monitoring
+### 6️⃣ IoT Dashboard & Control Panel
+
+The system integrates with a web-based IoT dashboard for real-time monitoring and automation. Detection results from the YOLOv8 model are sent to a PHP server, which updates relay status and controls pesticide spraying remotely.
+
+Dashboard URL:
+
+🔗 https://esskay-012024.live/plant/robo_menu.php
+
+Features:
+
+Real-time disease monitoring
+Relay status updates
+Remote spraying control
+Live field data visualization
+IoT-based automation management
+
+### 7️⃣ Visual Monitoring
 
 The system displays:
 
